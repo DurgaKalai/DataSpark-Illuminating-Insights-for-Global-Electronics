@@ -10,11 +10,11 @@ MySQL: Database to store and retrieve cleaned data
 Power BI: Visualization
 
 ## Skills Takeaway From This Project
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Python
-Data Management using SQL
-Power BI
+Data Cleaning and Preprocessing,
+Exploratory Data Analysis (EDA),
+Python,
+Data Management using SQL,
+Power BI.
 
 ## Steps Involved
 1.Data Cleaning: Prepared datasets by handling missing values and integrating multiple data sources.
