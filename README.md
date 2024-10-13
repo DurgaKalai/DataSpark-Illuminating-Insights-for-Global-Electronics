@@ -63,3 +63,16 @@ CAD: 0.68%
 9) Store analysis by country and sales proves that US has high no of stores by 66.93% compared to Australia with 17.07% . Stores with Store Key “5” contribute to the highest sales and revenue.
 
 
+### Screenshots of report
+Below are the screenshots of the reports generated during the project. These visualizations provide insights into customer demographics, sales performance, store and product analysis.
+
+![power bi screenshot 1](https://github.com/user-attachments/assets/9c769938-8393-437e-a85d-7d310447c5ba)
+
+
+![power bi screenshot 2](https://github.com/user-attachments/assets/811de24e-5b26-4c58-a3a8-02157aa767d4)
+
+
+![power bi screenshot 3](https://github.com/user-attachments/assets/8c26086c-27d7-4590-bc8d-b3b1519b088c)
+
+
+
