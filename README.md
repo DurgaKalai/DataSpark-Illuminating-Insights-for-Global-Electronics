@@ -21,12 +21,18 @@ Power BI.
 
 ## Steps Involved
 1.Data Cleaning: Prepared datasets by handling missing values and integrating multiple data sources.
-2.EDA (Exploratory Data Analysis): Analyzed customer demographics, sales trends, product performance, and store         operations.
+
+2.EDA (Exploratory Data Analysis): Analyzed customer demographics, sales trends, product performance, and store operations.
+
 3.SQL Queries: Executed key SQL queries to extract important insights.
+
 4.Visualization: Built interactive dashboards using Power BI to visualize the findings.
 
 ## Key Insights
 Customer Segmentation: Identified key customer groups based on purchasing behavior.
+
 Sales Performance: Analyzed trends over time and by product/store.
+
 Product Analysis: Determined top-selling products and categories.
+
 Store Analysis: Evaluated store performance and identified high-growth regions.
