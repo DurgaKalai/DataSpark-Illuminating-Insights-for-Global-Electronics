@@ -29,10 +29,8 @@ Power BI.
 4.Visualization: Built interactive dashboards using Power BI to visualize the findings.
 
 ## Key Insights
-Customer Segmentation: Identified key customer groups based on purchasing behavior.
-
-Sales Performance: Analyzed trends over time and by product/store.
-
+Customer Segmentation: Identified key customer groups based on purchasing behaviour.
+Sales Performance: Analysed trends over time and by product/store.
 Product Analysis: Determined top-selling products and categories.
-
 Store Analysis: Evaluated store performance and identified high-growth regions.
+
