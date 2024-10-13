@@ -4,9 +4,12 @@
 This project centers on analyzing data for Global Electronics, a prominent retailer in the electronics sector. The objective is to clean and prepare the data, perform exploratory data analysis (EDA), and generate visualizations that deliver actionable insights. These insights aim to enhance customer satisfaction, optimize operations, and promote business growth.
 
 ## Tools Used
-Jupyter Notebook 
+Jupyter Notebook
+
 Python, Pandas: Data cleaning and exploratory data analysis
+
 MySQL: Database to store and retrieve cleaned data
+
 Power BI: Visualization
 
 ## Skills Takeaway From This Project
