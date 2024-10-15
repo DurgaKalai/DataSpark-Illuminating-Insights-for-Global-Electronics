@@ -28,6 +28,8 @@ Power BI.
 
 4) Visualization: Built interactive dashboards using Power BI to visualize the findings.
 
+5) Formulate and execute 10 SQL queries: Mainly to extract key insights from the data and these queries should address important business questions.
+
 ## Key Insights
 Customer Segmentation: Identified key customer groups based on purchasing behaviour.
 
