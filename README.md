@@ -24,11 +24,11 @@ Power BI.
 
 2) EDA (Exploratory Data Analysis): Analyzed customer demographics, sales trends, product performance, and store operations.
 
-3) SQL Queries: Executed key SQL queries to extract important insights.
+3) Load Data: Data Management using MYSQL
+   
+5) Visualization: Built interactive dashboards using Power BI to visualize the findings.
 
-4) Visualization: Built interactive dashboards using Power BI to visualize the findings.
-
-5) Formulate and execute 10 SQL queries: Mainly to extract key insights from the data and these queries should address important business questions.
+6)  SQL Queries: Executed key SQL queries to extract important insights.
 
 ## Key Insights
 Customer Segmentation: Identified key customer groups based on purchasing behaviour.
