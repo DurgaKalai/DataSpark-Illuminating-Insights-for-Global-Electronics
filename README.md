@@ -56,7 +56,7 @@ EUR: 16.96%
 GBP: 14.35%
 CAD: 0.68%
 
-6) Sales analysis by Trends in order Dates demonstrates that Combined revenue and Sales from 2018 and 2019 is higher than the total revenue from the other Period of year.
+6) Sales analysis by Trends in order Dates demonstrates that Combined revenue and Sales from 2019 and 2020 is higher than the total revenue from the other Period of year.
 
 7) Top performing brand was Adventure Works by its total sales followed by Contoso and the least was Northwind Traders.
 
